@@ -7,12 +7,12 @@ This is my submission for the 1st challenge in my coding boot camp. It mimics a 
 
 ## What did I do?
 I did alot of proofreading, edits and rearranging to the original code (downloaded from GitLab) to make it fully functional and match the Acceptance criteria. My code included:
-    - Creating new SSH keys to set up communication between my local computer and my GitHub Repository, titled challenge-one-pineapple.
-    - Adding the title to the webpage, so the tab read what the company name and home screen. This is for accessibility purposes.
-    - Added a few punctuation marks to the css to include certain fonts.
-    - Made the SEO button send the user to the correct section when clicked, as it didn't before.
-    - Rearranging the CSS style sheet to roughly match the HTML code, so if another developer needs to make an edit the order of the code is congruent.
-    - Added alt text to all of the images for accessibility purposes.
+- Creating new SSH keys to set up communication between my local computer and my GitHub Repository, titled challenge-one-pineapple.
+- Adding the title to the webpage, so the tab read what the company name and home screen. This is for accessibility purposes.
+- Added a few punctuation marks to the css to include certain fonts.
+- Made the SEO button send the user to the correct section when clicked, as it didn't before.
+- Rearranging the CSS style sheet to roughly match the HTML code, so if another developer needs to make an edit the order of the code is congruent.
+- Added alt text to all of the images for accessibility purposes.
 
 ## What does it look like?
 Here is a screenshot link: https://github.com/mmlawton15/challenge-one-pineapple/issues/1#issue-1041771206
