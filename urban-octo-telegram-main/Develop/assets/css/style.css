@@ -52,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+
 /* HERO STYLE BEGINS */
 .hero {
     height: 800px;
@@ -61,6 +62,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+
 
 /* CONTENT STYLE BEGINS */
 .float-left {
@@ -193,6 +195,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
 
 /* FOOTER STYLE BEGINS */
 .footer {
