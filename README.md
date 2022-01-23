@@ -15,7 +15,7 @@ I did alot of proofreading, edits and rearranging to the original code (download
 - Added alt text to all of the images for accessibility purposes.
 
 ## What does it look like?
-Here is a screenshot link: https://github.com/mmlawton15/challenge-one-pineapple/issues/1#issue-1041771206
+![image](./assets/images/horiseonWebpage.jpg)
 
 ## Where can I find this webpage?
 You can look at this webpage live by looking at my GitHub repository, mentioned above. You can also view this page on a website, by using this live URL: https://mmlawton15.github.io/challenge-one-pineapple/.
