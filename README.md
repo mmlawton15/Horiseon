@@ -1,6 +1,4 @@
 # challenge-one-pineapple
-# Code Refactor Starter Code
-
 
 ## What is the point of this HTML code and page?
 This is my submission for the 1st challenge in my coding boot camp. It mimics a company's webpage and existing HTML and CSS, which I was tasked with refactoring to match the requested criteria.
@@ -15,7 +13,7 @@ I did alot of proofreading, edits and rearranging to the original code (download
 - Added alt text to all of the images for accessibility purposes.
 
 ## What does it look like?
-![image](./assets/images/horiseonWebpage.jpg)
+![image](./Assets/images/horiseonWebpage.jpg)
 
 ## Where can I find this webpage?
 You can look at this webpage live by looking at my GitHub repository, mentioned above. You can also view this page on a website, by using this live URL: https://mmlawton15.github.io/challenge-one-pineapple/.
