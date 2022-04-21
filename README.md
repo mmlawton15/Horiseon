@@ -4,6 +4,7 @@
 This is my submission for the 1st challenge in my coding boot camp. It mimics a company's webpage and existing HTML and CSS, which I was tasked with refactoring to match the requested criteria.
 
 ## Stack?
+Frontend:
 - HTML
 - CSS
 
