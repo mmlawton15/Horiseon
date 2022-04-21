@@ -3,6 +3,10 @@
 ## What is the point of this HTML code and page?
 This is my submission for the 1st challenge in my coding boot camp. It mimics a company's webpage and existing HTML and CSS, which I was tasked with refactoring to match the requested criteria.
 
+## Stack?
+- HTML
+- CSS
+
 ## What did I do?
 I did alot of proofreading, edits and rearranging to the original code (downloaded from GitLab) to make it fully functional and match the Acceptance criteria. My code included:
 - Creating new SSH keys to set up communication between my local computer and my GitHub Repository, titled challenge-one-pineapple.
